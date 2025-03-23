@@ -1,0 +1,16 @@
+academictorrents
+albumentations
+clip
+einops
+natsort
+numpy
+omegaconf
+opencv_python
+packaging
+Pillow
+pytorch_lightning
+PyYAML
+torch
+torchvision
+tqdm
+transformers
